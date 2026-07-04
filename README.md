@@ -1,4 +1,4 @@
-# tiny_rootfs
+# tiny_Container_rootfs
 为项目Tiny_Container（原Tiny_Computer)打造的特定根文件系统。
 开箱即用，完全独立于任何上游容器项目。
 
